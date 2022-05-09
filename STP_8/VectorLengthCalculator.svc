@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="STP_8.VectorLengthCalculator" CodeBehind="VectorLengthCalculator.svc.cs" %>
